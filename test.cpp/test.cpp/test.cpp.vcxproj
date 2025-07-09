@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="class.cpp" />
     <ClCompile Include="ref3.cpp" />
     <ClCompile Include="ref4.cpp" />
     <ClCompile Include="ref5.cpp" />
