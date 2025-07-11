@@ -127,6 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0711cons.cpp" />
+    <ClCompile Include="0711cons2.cpp" />
+    <ClCompile Include="0711cons3.cpp" />
+    <ClCompile Include="0711deepcopy.cpp" />
     <ClCompile Include="class.cpp" />
     <ClCompile Include="ref3.cpp" />
     <ClCompile Include="ref4.cpp" />

@@ -39,5 +39,17 @@
     <ClCompile Include="class.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0711cons.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0711cons2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0711deepcopy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0711cons3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
